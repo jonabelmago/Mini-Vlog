@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Groupmember [
+<!ELEMENT member (name, description)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+]>
+
+<Groupmember>
+	<c>
+		<name>John Lander Pascual</name>
+		<description>Hello, my name is Lander and I'm a software engineer. I've been working in the software development industry for the past five years, and I've spent a lot of that time honing my skills in programming languages like Python and Java. I specialize in full-stack development, which means I'm comfortable working with both front-end and back-end technologies. In my free time, I like to work on personal coding projects and contribute to open-source software development communities. I'm excited to be here and looking forward to discussing technology and programming with all of you.</description>
+	</c>
+		<c>
+		<name>Catherine Lubrin</name>
+		<description>Hi, My  Full Name is Catherine Desunia Lubrin, from Laylay, Boac, Marinduque. I'm currently 20 years old and I'm born on September 10, 2002. I'm second year college studied at Marinduque State College, taking Information Technology My hobbies are singing and watching movies.</description>
+	</c>
+		</c>
+		<c>
+		<name>Jonabelle Mago</name>
+		<description>is an Filipino business magnate, investor, and philanthropist. He is best known for co-founding software giant Microsoft, along with his late childhood friend William Henry Gates III.</description>
+	</c>
+		</c>
+		<c>
+		<name>Mary Angeline Lingon</name>
+		<description>Hi my name is Mary Angelie A. Lingon, 21 years old and I am from Caganhao Boac Marinduque. I'm currently a second year collage student at Marinduque State College, taking a course of Information Technology. The best way I describe my self is that I'm tall and skinny. My height is 5'5and my weight is about 40 kl. I have a short and curly hair which I get from my mother. While my skin is slightly brown which I inherited from my mother.</description>
+	</c>
+</Groupmember>
